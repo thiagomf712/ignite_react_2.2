@@ -7,6 +7,7 @@ import GlobalStyle from './styles/global';
 const App = () => (
   <>
     <GlobalStyle />
+    
     <Router>
       <Routes />
     </Router>
